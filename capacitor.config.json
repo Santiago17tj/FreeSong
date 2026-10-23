@@ -1,0 +1,17 @@
+{
+  "appId": "com.freesong.app",
+  "appName": "FreeSong",
+  "webDir": "www",
+  "backgroundColor": "#09090b",
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#09090b"
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "css",
+      "style": "DARK",
+      "initialViewportFitValueHint": "cover"
+    }
+  }
+}
